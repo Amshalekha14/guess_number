@@ -1,0 +1,32 @@
+h1{
+    background-color:antiquewhite;
+    text-align:center;
+    color:black;
+    padding:10px;
+}
+
+.main{
+    text-align:center;
+    border: solid pink 5px;
+    padding:10px;
+    border-radius: 10px;
+    background-color:aqua;
+}
+
+.button{
+    background-color: 10px;
+    height:10px;
+    width:10px;
+    color:aliceblue;
+}
+
+.p{
+    background-color: blue;
+    color:pink;
+    padding:10px;
+}
+
+.input{
+    background-color:blue;
+    color:black;
+}
